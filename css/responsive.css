@@ -1,0 +1,36 @@
+@media screen and (max-width:768px){
+    .same-service {
+	margin-bottom: 50px;
+}
+}
+
+
+@media screen and (max-width:480px){
+    .banner h2 {
+	font-size: 50px;
+	
+}
+    
+    .banner p {
+	font-size: 25px;
+}
+    .button{
+        font-size: 15px
+    }
+}
+
+@media screen and (max-width:320px){
+    .our-fortfolio h2{
+        font-size: 25px;
+    }
+    
+    .button {
+	font-size: 8px;
+}
+    
+    .social i{
+        width: 40px;
+        height: 45px;
+    }
+	
+}
